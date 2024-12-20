@@ -1,5 +1,5 @@
 
-### **Data**
+## Data
 
 Data yang digunakan dalam penelitian ini merupakan data sekunder yang diperoleh dari **Badan Pusat Statistik Provinsi Sulawesi Selatan** dan dapat diakses melalui [https://sulsel.bps.go.id](https://sulsel.bps.go.id).
 
