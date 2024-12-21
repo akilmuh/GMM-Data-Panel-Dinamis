@@ -20,3 +20,6 @@ Data ini mencakup informasi yang berkaitan dengan **Produk Domestik Regional Bru
    - **Indeks Pembangunan Manusia (IPM) (X₃)**:
      - **Tipe Data**: Numerik  
      - **Deskripsi**: **Indeks Pembangunan Manusia (IPM)** adalah indikator yang menggambarkan tingkat pembangunan dalam suatu wilayah. IPM dihitung berdasarkan faktor-faktor seperti pendidikan, kesehatan, dan standar hidup. Variabel ini diukur dalam **persen** dan digunakan untuk mengukur kualitas hidup di masing-masing kabupaten/kota.
+
+## Akses Data
+Data lengkap dapat diakses di [BPS Sulawesi Selatan](https://sulsel.bps.go.id).
